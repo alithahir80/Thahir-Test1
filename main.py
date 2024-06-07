@@ -25,5 +25,9 @@ if __name__ == '__main__':
     print(type(b))
     print(a)
     print(b)
-
+    age = 14
+    is_teen = age > 12 and age < 20
+    print(is_teen)
+    message = " accessed the site " +  " at "  "."
+    print(message)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
